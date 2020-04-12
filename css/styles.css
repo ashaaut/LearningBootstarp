@@ -52,3 +52,17 @@ body{
     left: 0;
     min-height: 300px;
 }
+.modal-title{
+    color: #0f0f0f;
+}
+.col-form-label{
+    color: #0f0f0f;
+}
+.custom-control-label{
+    color: #0f0f0f;
+}
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
